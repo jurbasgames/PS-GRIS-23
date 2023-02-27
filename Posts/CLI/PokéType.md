@@ -19,7 +19,7 @@ A flag está no arquivo /etc/passwd.
 Input:
 ./poketype.sh \ file:/etc/passwd
 
-O caracter "\" escapa um espaço permitindo a inserção de outras urls, neste caso usei o protocolo file para acessar o arquivo da flag.
+O caracter "\\" escapa um espaço permitindo a inserção de outras urls, neste caso usei o protocolo file para acessar o arquivo da flag.
 
 ### Flag
 
