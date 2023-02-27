@@ -1,25 +1,25 @@
-# **CTF name**
+# **CTF**
 
 ## _PokéType_
 
-## Information
+## Informações
 
 | **Category:** | **Points:** |
 | ------------- | ----------- |
 | CLI           | 500         |
 
-**Description:**
+**Descrição:**
 
 > Fulaninho nunca consegue lembrar dos tipos de seus pokémons favoritos. Como solução, ele escreveu um shell script que usa a PokéApi para consultar o tipo de um pokémon rapidamente. Infelizmente, Fulaninho não sabe muito de segurança e seu script contém uma vulnerabilidade.
 
 A flag está no arquivo /etc/passwd.
 
-## Solution
+## Solução
 
 Input:
 ./poketype.sh \ file:/etc/passwd
 
-O caracter "\" escapa um espaço permitindo a inserção de outras urls, neste caso usei o protocolo file para acessar o arquivo da flag.
+O caracter "\\" escapa um espaço permitindo a inserção de outras urls, neste caso usei o protocolo file para acessar o arquivo da flag.
 
 ### Flag
 

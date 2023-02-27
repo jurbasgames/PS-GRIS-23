@@ -1,14 +1,14 @@
-# **CTF name**
+# **CTF**
 
 ## _"Grepper"_
 
-## Information
+## Informações
 
 | **Category:** | **Points:** |
 | ------------- | ----------- |
 | CLI           | 500         |
 
-**Description:**
+**Descrição:**
 
 > Fulaninho tem muitos arquivos e precisa de ajuda para encontrá-los. Use o grep para encontrar os arquivos que Fulaninho busca:
 
@@ -20,7 +20,7 @@ O conteúdo do arquivo não começa com 2 e termina com l3g4l
 
 A flag é o resultado da concatenação dos nomes dos três arquivos (na ordem como eles foram listados acima) entre CTF-BR{ e }.
 
-## Solution
+## Solução
 
 1. grep -r Gr15
 2. grep -E -r "^e+[^a]+h$"

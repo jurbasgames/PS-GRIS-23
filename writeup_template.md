@@ -1,22 +1,22 @@
-# **CTF name**
+# **CTF**
 
 ## _task name_
 
-## Information
+## Informações
 
 | **Category:** | **Points:** | **Writeup Author** |
 | ------------- | ----------- | ------------------ |
 | Reverse       | Points      | Author             |
 
-**Description:**
+**Descrição:**
 
 > task's description
 
-## Solution
+## Solução
 
 There is placed a solution
 
-### And this is subtitle
+### Flag
 
 Text under the subtitle
 
