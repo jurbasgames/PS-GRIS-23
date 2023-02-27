@@ -4,9 +4,9 @@
 
 ## Informações
 
-| **Category:** | **Points:** | **Writeup Author** |
-| ------------- | ----------- | ------------------ |
-| Reverse       | Points      | Author             |
+| **Category:** | **Points:** |
+| ------------- | ----------- |
+| Reverse       | Points      |
 
 **Descrição:**
 
