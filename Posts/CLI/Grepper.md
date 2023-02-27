@@ -1,6 +1,6 @@
 # **CTF name**
 
-## "Grepper"
+## _"Grepper"_
 
 ## Information
 
