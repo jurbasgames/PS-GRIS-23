@@ -15,4 +15,4 @@ Repositório de atividades do processo seletivo de 2023 do GRIS UFRJ.
 | Git                | WIP         |
 | Virtualização      | ❌          |
 | Arq. Comp.         | ❌          |
-| Análise de Pacotes | WIP         |
+| Análise de Pacotes | ✅         |
