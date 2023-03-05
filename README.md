@@ -17,5 +17,5 @@ Repositório de atividades do processo seletivo de 2023 do GRIS UFRJ.
 | Arq. Comp.         | ❌          |
 | Análise de Pacotes | ✅          |
 | Android            | ❌          |
-| Criptografia       | ❌          |
+| Criptografia       | WIP          |
 | Web                | WIP         |
