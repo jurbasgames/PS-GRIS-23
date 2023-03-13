@@ -9,13 +9,13 @@ Repositório de atividades do processo seletivo de 2023 do GRIS UFRJ.
 | CLI                | ✅          |
 | Linux              | WIP         |
 | Engenharia reversa | ✅          |
-| Pwn                | WIP         |
-| ASM                | WIP         |
+| Pwn                | ✅          |
+| ASM                | ✅          |
 | Redes              | ❌          |
 | Git                | WIP         |
 | Virtualização      | ❌          |
 | Arq. Comp.         | ❌          |
 | Análise de Pacotes | ✅          |
 | Android            | ❌          |
-| Criptografia       | WIP          |
+| Criptografia       | WIP         |
 | Web                | WIP         |
