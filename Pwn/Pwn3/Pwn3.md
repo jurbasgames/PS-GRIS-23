@@ -16,4 +16,4 @@
 
 ### Flag
 
->
+> CTF-BR{full_mitigation_enabled_this_time}
