@@ -11,7 +11,7 @@ Repositório de atividades do processo seletivo de 2023 do GRIS UFRJ.
 | Engenharia reversa | ✅          |
 | Pwn                | ✅          |
 | ASM                | ✅          |
-| Redes              | ❌          |
+| Redes              | ✅          |
 | Git                | WIP         |
 | Virtualização      | ❌          |
 | Arq. Comp.         | ❌          |
